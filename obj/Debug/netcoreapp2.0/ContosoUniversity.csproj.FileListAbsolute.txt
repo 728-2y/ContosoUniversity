@@ -1,0 +1,11 @@
+E:\ceshi\core API\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+E:\ceshi\core API\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+E:\ceshi\core API\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+E:\ceshi\core API\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+E:\ceshi\core API\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+E:\ceshi\core API\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+E:\ceshi\core API\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+E:\ceshi\core API\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+E:\ceshi\core API\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+E:\ceshi\core API\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
+E:\ceshi\core API\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojAssemblyReference.cache
